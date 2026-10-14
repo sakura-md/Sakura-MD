@@ -1,0 +1,182 @@
+{
+  "chats": {
+    "120363412711813777@g.us": {
+      "antilink": "off",
+      "antispam": false,
+      "antiflood": false,
+      "antitoxic": false,
+      "antimention": false,
+      "antisticker": false,
+      "antimedia": false,
+      "antibot": false,
+      "antiraid": false,
+      "warnlimit": 3,
+      "toxicWords": [],
+      "welcome": {
+        "on": false,
+        "text": "Selamat datang @user di *@group* 🌸"
+      },
+      "goodbye": {
+        "on": false,
+        "text": "Sampai jumpa @user 👋"
+      },
+      "warns": {}
+    },
+    "120363429490321744@g.us": {
+      "antilink": "off",
+      "antispam": false,
+      "antiflood": false,
+      "antitoxic": false,
+      "antimention": true,
+      "antisticker": false,
+      "antimedia": false,
+      "antibot": false,
+      "antiraid": false,
+      "warnlimit": 3,
+      "toxicWords": [],
+      "welcome": {
+        "on": false,
+        "text": "Selamat datang @user di *@group* 🌸"
+      },
+      "goodbye": {
+        "on": false,
+        "text": "Sampai jumpa @user 👋"
+      },
+      "warns": {
+        "6285781270038": 1
+      }
+    },
+    "120363411889250750@g.us": {
+      "antilink": "off",
+      "antispam": false,
+      "antiflood": false,
+      "antitoxic": false,
+      "antimention": false,
+      "antisticker": false,
+      "antimedia": false,
+      "antibot": false,
+      "antiraid": false,
+      "warnlimit": 3,
+      "toxicWords": [],
+      "welcome": {
+        "on": false,
+        "text": "Selamat datang @user di *@group* 🌸"
+      },
+      "goodbye": {
+        "on": false,
+        "text": "Sampai jumpa @user 👋"
+      },
+      "warns": {}
+    },
+    "120363428093532181@g.us": {
+      "antilink": "off",
+      "antispam": false,
+      "antiflood": false,
+      "antitoxic": false,
+      "antimention": false,
+      "antisticker": false,
+      "antimedia": false,
+      "antibot": false,
+      "antiraid": false,
+      "warnlimit": 3,
+      "toxicWords": [],
+      "welcome": {
+        "on": false,
+        "text": "Selamat datang @user di *@group* 🌸"
+      },
+      "goodbye": {
+        "on": false,
+        "text": "Sampai jumpa @user 👋"
+      },
+      "warns": {}
+    },
+    "120363427491547063@g.us": {
+      "antilink": "off",
+      "antispam": false,
+      "antiflood": false,
+      "antitoxic": false,
+      "antimention": false,
+      "antisticker": false,
+      "antimedia": false,
+      "antibot": false,
+      "antiraid": false,
+      "warnlimit": 3,
+      "toxicWords": [],
+      "welcome": {
+        "on": false,
+        "text": "Selamat datang @user di *@group* 🌸"
+      },
+      "goodbye": {
+        "on": false,
+        "text": "Sampai jumpa @user 👋"
+      },
+      "warns": {}
+    },
+    "120363429420202742@g.us": {
+      "antilink": "off",
+      "antispam": false,
+      "antiflood": false,
+      "antitoxic": false,
+      "antimention": false,
+      "antisticker": false,
+      "antimedia": false,
+      "antibot": false,
+      "antiraid": false,
+      "warnlimit": 3,
+      "toxicWords": [],
+      "welcome": {
+        "on": false,
+        "text": "Selamat datang @user di *@group* 🌸"
+      },
+      "goodbye": {
+        "on": false,
+        "text": "Sampai jumpa @user 👋"
+      },
+      "warns": {}
+    },
+    "120363426411583962@g.us": {
+      "antilink": "off",
+      "antispam": false,
+      "antiflood": false,
+      "antitoxic": false,
+      "antimention": false,
+      "antisticker": false,
+      "antimedia": false,
+      "antibot": false,
+      "antiraid": false,
+      "warnlimit": 3,
+      "toxicWords": [],
+      "welcome": {
+        "on": false,
+        "text": "Selamat datang @user di *@group* 🌸"
+      },
+      "goodbye": {
+        "on": false,
+        "text": "Sampai jumpa @user 👋"
+      },
+      "warns": {}
+    },
+    "120363427746916147@g.us": {
+      "antilink": "off",
+      "antispam": false,
+      "antiflood": false,
+      "antitoxic": false,
+      "antimention": false,
+      "antisticker": false,
+      "antimedia": false,
+      "antibot": false,
+      "antiraid": false,
+      "warnlimit": 3,
+      "toxicWords": [],
+      "welcome": {
+        "on": false,
+        "text": "Selamat datang @user di *@group* 🌸"
+      },
+      "goodbye": {
+        "on": false,
+        "text": "Sampai jumpa @user 👋"
+      },
+      "warns": {}
+    }
+  }
+}
