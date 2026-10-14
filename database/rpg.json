@@ -1,0 +1,20 @@
+{
+  "users": {
+    "6283167752474@s.whatsapp.net": {
+      "level": 1,
+      "xp": 0,
+      "gold": 250,
+      "health": 100,
+      "inventory": {},
+      "weapon": null,
+      "armor": null,
+      "weaponLv": 0,
+      "armorLv": 0,
+      "cd": {},
+      "lastDaily": 0,
+      "streak": 0,
+      "wins": 0,
+      "losses": 0
+    }
+  }
+}
